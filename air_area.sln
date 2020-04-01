@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "air_area", "air_area\air_area.csproj", "{EACFD9BF-7F0B-4286-AADC-06D472D595D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACFD9BF-7F0B-4286-AADC-06D472D595D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACFD9BF-7F0B-4286-AADC-06D472D595D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACFD9BF-7F0B-4286-AADC-06D472D595D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACFD9BF-7F0B-4286-AADC-06D472D595D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82E5B527-4D81-4BD3-B58C-EC33A84F6EB4}
+	EndGlobalSection
+EndGlobal
